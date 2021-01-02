@@ -1,3 +1,6 @@
+Please click here to view the certificate of completion of this course:
+https://www.coursera.org/account/accomplishments/certificate/D4BD69G8DUZE
+
 # ConFusion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
